@@ -12,3 +12,7 @@ Possible topics:
 - Creating interactive Shiny web applications
 - Using R Markdown (and its extensions)
 - Using git/GitHub
+- Accessing application programming interfaces
+- Managing larger data sources (and using distributed computing resources)
+- Modeling larger data sets
+- Using terminal/the command line
