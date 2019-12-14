@@ -11,3 +11,4 @@ Possible topics:
 - Using continuous integration services
 - Creating interactive Shiny web applications
 - Using R Markdown (and its extensions)
+- Using git/GitHub
